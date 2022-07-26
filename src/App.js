@@ -13,6 +13,7 @@ export const ACTIONS = {
 
 function reducer(state, { type, payload }) {
   switch (type) {
+
     case ACTIONS.ADD_DIGIT:
       if (state.overwrite) {
         return {
@@ -38,6 +39,7 @@ function reducer(state, { type, payload }) {
     case ACTIONS.CHOOSE_OPERATION:
       if (state.currentOperand == null && state.previousOperand == null) {
         return state
+
       }
 
       if (state.currentOperand == null) {
