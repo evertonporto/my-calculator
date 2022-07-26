@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/evertonporto/my-calculator.git/static/css/main.07ceb379.css",
+    "main.js": "/evertonporto/my-calculator.git/static/js/main.50d17a0b.js",
+    "index.html": "/evertonporto/my-calculator.git/index.html",
+    "main.07ceb379.css.map": "/evertonporto/my-calculator.git/static/css/main.07ceb379.css.map",
+    "main.50d17a0b.js.map": "/evertonporto/my-calculator.git/static/js/main.50d17a0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07ceb379.css",
+    "static/js/main.50d17a0b.js"
+  ]
+}
